@@ -11,7 +11,7 @@ function setup() {
 
 function draw() {
     background(255);
-    image(capture, 0, 0, windowWidth, windowHeight);
+    image(capture, 0, 0, windowWidth, windowHeight*2);
     //filter(INVERT);
 }
 
