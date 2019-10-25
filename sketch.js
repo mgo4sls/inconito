@@ -4,7 +4,7 @@ let capture;
 let ai;
 
 function preload() {
-  img = loadImage('image/a1.png');
+  img = loadImage('https://mgo4sls.github.io/inconito/a1.png');
 }
 
 function setup() {
