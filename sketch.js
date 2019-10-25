@@ -4,7 +4,7 @@ let capture;
 let ai;
 
 function preload() {
-  img = loadImage('img/a1.png');
+  img = loadImage('image/a1.png');
 }
 
 function setup() {
