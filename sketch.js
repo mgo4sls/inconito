@@ -3,7 +3,7 @@ var news = "HELLO";
 let capture;
 
 function setup() {
-    createCanvas(windowWidth, windowHeight);
+    createCanvas(windowWidth, windowHeight*2);
     capture = createCapture(VIDEO);
     capture.size(320, 240);
 	capture.hide();
