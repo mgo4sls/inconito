@@ -21,7 +21,7 @@ function draw() {
     background(255);
     image(capture, 0, 0, windowWidth, windowHeight);
     //filter(INVERT);
-    image(ai, 0, height / 2, img.width / 2, img.height / 2);
+    //image(ai, 0, height / 2, img.width / 2, img.height / 2);
 }
 
 
